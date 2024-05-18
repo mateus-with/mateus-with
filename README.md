@@ -8,7 +8,7 @@ Estudante do 3º DSM da FATEC
 
 *   ✉️  Voce pode entrar em contato pelo email: [mmatheus\_silvam@outlook.com](mailto:mmatheus_silvam@outlook.com)
 *   🧠  Aprendendo PHP e Javascript
-*   ⚡  Jogador de CS e volante nas horas vagas.
+*   ⚡  Jogador de CS e volante (futebol) nas horas vagas.
   
    ... Always working ...
 *   ### Linguagens e ferramentas! 
