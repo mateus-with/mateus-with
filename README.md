@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Estudante de programação! Web dev and designer
 ----------------------------------------------
 
-Estudante do 3º DSM da FATEC
+Estudante do 4º DSM da FATEC
 
 *   ✉️  Voce pode entrar em contato pelo email: [mmatheus\_silvam@outlook.com](mailto:mmatheus_silvam@outlook.com)
 *   🧠  Aprendendo PHP e Javascript
