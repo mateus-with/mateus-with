@@ -7,7 +7,7 @@ Estudante de programação! Web dev and designer
 Estudante do 4º DSM da FATEC
 
 *   ✉️  Voce pode entrar em contato pelo email: [mmatheus\_silvam@outlook.com](mailto:mmatheus_silvam@outlook.com)
-*   🧠  Aprendendo PHP e Javascript
+*   🧠  Aprendendo Python e AI
 *   ⚡  Jogador de CS e volante (futebol) nas horas vagas.
   
    ... Always working ...
